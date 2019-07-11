@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work on release
 Adding line for rebase on master
+More changes on feature after rebase
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
